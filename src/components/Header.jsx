@@ -5,7 +5,7 @@ const Header = () => {
     <div className="bg-gray-800 p-5 md:p-10 text-white flex items-center justify-between rounded">
       <p className="font-semibold  lg:text-2xl">Dummy Chat App</p>
       <a
-        href="https://github.com/dineshdevelope?tab=repositories"
+        href="https://github.com/dineshdevelope/Dummy-chat-app"
         target="_blank"
         className="bg-white text-black font-semibold p-1  rounded-md flex items-center gap-1 "
       >
